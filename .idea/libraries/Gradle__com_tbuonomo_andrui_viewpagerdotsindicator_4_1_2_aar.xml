@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tbuonomo.andrui:viewpagerdotsindicator:4.1.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../caches/transforms-2/files-2.1/0daefa03b5128f3cd9c01510b2f76ce6/jetified-viewpagerdotsindicator-4.1.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../caches/transforms-2/files-2.1/0daefa03b5128f3cd9c01510b2f76ce6/jetified-viewpagerdotsindicator-4.1.2/res" />
+      <root url="jar://$PROJECT_DIR$/../caches/transforms-2/files-2.1/0daefa03b5128f3cd9c01510b2f76ce6/jetified-viewpagerdotsindicator-4.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0daefa03b5128f3cd9c01510b2f76ce6/jetified-viewpagerdotsindicator-4.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0daefa03b5128f3cd9c01510b2f76ce6/jetified-viewpagerdotsindicator-4.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0daefa03b5128f3cd9c01510b2f76ce6/jetified-viewpagerdotsindicator-4.1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbuonomo.andrui/viewpagerdotsindicator/4.1.2/117acdb50bfe1d2ef18d488d0c32774b12516682/viewpagerdotsindicator-4.1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../caches/modules-2/files-2.1/com.tbuonomo.andrui/viewpagerdotsindicator/4.1.2/117acdb50bfe1d2ef18d488d0c32774b12516682/viewpagerdotsindicator-4.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbuonomo.andrui/viewpagerdotsindicator/4.1.2/c59fe20d9f09fac0b464ace017dfe890de9379e2/viewpagerdotsindicator-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../caches/modules-2/files-2.1/com.tbuonomo.andrui/viewpagerdotsindicator/4.1.2/c59fe20d9f09fac0b464ace017dfe890de9379e2/viewpagerdotsindicator-4.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
